@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1001908624290",
+    "firebase_url": "https://python-60cae-default-rtdb.firebaseio.com",
+    "project_id": "python-60cae",
+    "storage_bucket": "python-60cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001908624290:android:0189a07ebbaf9e91a3b0fb",
+        "android_client_info": {
+          "package_name": "com.example.epc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEVSSGrgXVW2WlVZRsNlSQ-T42WlBIpLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
